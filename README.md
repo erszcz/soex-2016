@@ -1,27 +1,14 @@
 # School of Elixir 2016
 
+**Moved to [lambdaacademy/2016.12_elixir](https://github.com/lambdaacademy/2016.12_elixir)**.
 
-## Schedule
+Follow these steps to point your local checkout to the new location:
 
--  5.12.2016 17:00
-- 12.12.2016 17:00
-- 19.12.2016 17:00
-- 26.12.2016 - holiday break
--  9.01.2017 ?
-- 16.01.2017 ?
+```
+git remote rename origin old-origin
+git remote add origin git@github.com:lambdaacademy/2016.12_elixir
+```
 
-
-## Reading materials
-
-- [Elixir Getting Started](http://elixir-lang.org/getting-started/introduction.html)
-- [_Programming Elixir_ by Dave Thomas](https://pragprog.com/book/elixir/programming-elixir)
-
-
-## Training grounds / coding exercises
-
-- [Codewars](https://www.codewars.com)
-
-
-## Contact
-
-Radek Szymczyszyn < radoslaw.szymczyszyn ~at~ erlang.solutions ~dot~ com >
+Alternatively, if you've forked this repository but want to contribute,
+please just fork the new one, push code to the new fork,
+and issue a Pull Request from there.
